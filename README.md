@@ -30,6 +30,8 @@ Nessa imagem realizamos a tabela Produtos onde traz as seguintes informações d
 
 Nessa imagem nós fizemos o view do Histórico do Pedido do Cliente que traz as seguintes informações, Nome do Cliente, Data do pedido, Nome do Produto, Quantidade e Status.
 
+# NOME - EMAIL - RA
 
+Matheus Ferreira De Laia- matheuslaia664@gmail.com - 236012
 
 

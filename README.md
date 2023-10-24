@@ -30,6 +30,11 @@ Nessa imagem realizamos a tabela Produtos onde traz as seguintes informações d
 
 Nessa imagem nós fizemos o view do Histórico do Pedido do Cliente que traz as seguintes informações, Nome do Cliente, Data do pedido, Nome do Produto, Quantidade e Status.
 
+![image](https://github.com/MatheusLaiaa/comercioele/assets/144149403/4d993646-d2a3-4a8c-94ea-eda32b919474)
+
+Nessa imagem são os três Stored Procedures pedidos nessa atividade.
+
+
 # NOME - EMAIL - RA
 
 Matheus Ferreira De Laia- matheuslaia664@gmail.com - 236012

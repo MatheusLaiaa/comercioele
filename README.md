@@ -3,6 +3,10 @@
 ## METODOLOGIA
 
 Esse trabalho tem o intuito de desenvolver a matéria de Banco De Dados e seus metodos apresentados em aula (View, Stored Procedures, Relacionamentos, Tabelas), a atividade consiste em desenvolver um comércio eletrônico que apresenta todos os metodos indicados nas aulas de BD e também realizar o modelo lógico da atividade. 
+## MODELO LOGICO 
+
+![Imagem do WhatsApp de 2023-10-27 à(s) 19 04 39_3f751dbc](https://github.com/MatheusLaiaa/comercioele/assets/144149403/ebdadbd7-7882-4861-b494-a7c9a7c336f8)
+
 
 ### NOME DO ARQUIVO
 
